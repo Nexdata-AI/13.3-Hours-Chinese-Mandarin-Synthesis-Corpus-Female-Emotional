@@ -1,8 +1,10 @@
 # 13.3-Hours-Chinese-Mandarin-Synthesis-Corpus-Female-Emotional
-https://www.datatang.ai/datasets/1141
+
 
 ## Description
 13.3 Hours - Chinese Mandarin Synthesis Corpus-Female, Emotional. It is recorded by Chinese native speaker,emotional text, and the syllables, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+For more details, please refer to the link: https://bit.ly/3C9a03b
 
 ## Format
 48,000Hz, 16bit, uncompressed wav, mono channel;
@@ -27,3 +29,6 @@ word and pinyin transcription, prosodic boundary annotation;
 
 ## Application scenarios
 speech synthesis.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
